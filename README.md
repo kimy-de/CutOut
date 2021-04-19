@@ -1,4 +1,4 @@
-# CutOut
+# CutOut (Pytorch)
 
 CutOut is a regularization method that erases a part of the area in each selected image at random.
 
