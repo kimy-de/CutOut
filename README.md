@@ -4,7 +4,7 @@ CutOut is a regularization method that erases a part of the area in each selecte
 
 [Reference] Terrance DeVries, Graham W. Taylor, "Improved Regularization of Convolutional Neural Networks with Cutout", arXiv preprint arXiv:1708.04552}, 2017
 
-# Methodology
+## Methodology
 Add this class to your code.
 ```python
 class CutOut:
@@ -30,3 +30,7 @@ class CutOut:
         
         return inputs
 ```
+
+## CutOut Images
+![cutout_cifar10](https://user-images.githubusercontent.com/52735725/115238312-d5eaf200-a11d-11eb-8ed2-87168cb15bb1.png)
+
